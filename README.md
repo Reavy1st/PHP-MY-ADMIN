@@ -8,9 +8,9 @@ Tutorial Install Php
 
 3, use mysql
 
-4, CREATE USER 'PENNYWISE'@'%' IDENTIFIED BY 'PENNYWISE';
+4, CREATE USER 'SEYZI'@'%' IDENTIFIED BY 'SEYZI';
 
-5, GRANT ALL PRIVILEGES ON *.* TO 'PENNYWISE'@'%' WITH GRANT OPTION;
+5, GRANT ALL PRIVILEGES ON *.* TO 'SEYZI'@'%' WITH GRANT OPTION;
 
 6, FLUSH PRIVILEGES;
 
@@ -24,4 +24,4 @@ Tutorial Install Php
 
 9, cd /var/www/pterodactyl/public && wget https://files.phpmyadmin.net/phpMyAdmin/$PHPMYADMIN_VERSION/phpMyAdmin-$PHPMYADMIN_VERSION-all-languages.zip && unzip phpMyAdmin-$PHPMYADMIN_VERSION-all-languages.zip && rm phpMyAdmin-$PHPMYADMIN_VERSION-all-languages.zip && mv phpMyAdmin-$PHPMYADMIN_VERSION-all-languages pma
 
-Note : Setelah itu silahkan create Di admin panel Databse username dan password sesuai Create di Atas *PENNYWISE* dan isi IP vps
+Note : Setelah itu silahkan create Di admin panel Databse username dan password sesuai Create di Atas *SEYZI* dan isi IP vps
